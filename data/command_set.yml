@@ -1,0 +1,9 @@
+command_set:
+  - show running-config
+  - show vrf detail
+  - show nve peers detail
+  - show fabric forwarding ip local-host-db vrf all
+  - show bgp l2vpn evpn summary
+  - show bgp l2vpn evpn
+  - show l2route evpn mac-ip all
+  - show ip route vrf all
